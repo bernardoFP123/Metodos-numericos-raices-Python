@@ -1,2 +1,2 @@
-# Tarea-2
-Tarea 2
+# Métodos numéricos
+Aplicación de métodos numéricos de integracion y de búsqueda de raices.
